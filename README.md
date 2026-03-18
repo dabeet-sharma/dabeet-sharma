@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Dabeet Sharma
+# Hi👋, I'm Dabeet.
 
 Computer Science student at Columbia University focused on AI, robotics, fintech, and software engineering.
 
