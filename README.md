@@ -40,7 +40,7 @@ that reflect my interests in machine learning, automation, and real-world softwa
 ## Featured projects
 - [Portfolio Website]((Coming soon))
 - [LeetCode Solutions](https://github.com/dabeet-sharma/LeetCode)
-- [Algorithm Visualizer](https://github.com/YOUR_USERNAME/algorithm-visualizer(Coming soon))
+- [Algorithm Visualizer]((Coming soon))
 
 ## Goals
 - Build polished software projects
