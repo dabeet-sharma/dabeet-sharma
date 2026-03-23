@@ -39,6 +39,9 @@ that reflect my interests in machine learning, automation, and real-world softwa
 
 ## Featured projects
 - [Portfolio Website]((Coming soon))
+- [Ball-Bouncer Project]((Coming soon))
+- [Everything-codex]((Coming soon))
+- [Magic-Mirror UI]((Coming soon))
 - [LeetCode Solutions](https://github.com/dabeet-sharma/LeetCode)
 - [Algorithm Visualizer](https://github.com/dabeet-sharma/algorithm-visualizer)
 
